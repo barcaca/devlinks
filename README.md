@@ -41,7 +41,7 @@ O projeto segue a arquitetura de componentes de React. Os componentes são organ
 
 ## 🔗 Links
 
-- Live Site URL: [Vercel App](https://todo-app-list-seven.vercel.app)
+- Live Site URL: [Vercel App](https://devlinks-green.vercel.app)
 
 ### 🏆 **Conclusão**
 
